@@ -38,15 +38,13 @@ app:
     - name: clientSecret
       value: "{aes}AIUxkkmTE73hJrAj3oN5OMYQnC9j3NWNJNTXXAchJ97qyrr7MHYMmn1NEtxgHXFqmYp8VNEAYhB5hJS8voLsRYyfA/7GpDdznGs/DtYEqzlw"
 
-  libertyVersionPolicy: "latest-lts"
-
   # observability:
   #  cloudwatch:   
   #    arn: arn:aws:logs:region:account-id:destination:destination_name
   #    logGroup: myLogGroup
   #    region: us-east-1
 
-  version: "8fbb368f-b1f6-4ba9-bd65-a202d158969d"
+  version: ""
 # probes
 # dynamic scaling
 # scaling to 0
