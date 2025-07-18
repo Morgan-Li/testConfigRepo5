@@ -16,7 +16,7 @@ app:
     # q: do we support fractions?
     cpu: 1
 
-
+  endpoints: public
     # memory limit is based on cpu value: 1:3 memory ratio, e.g. 1 cpu == 3 gb
     # ephemeral disk limit will be set to 1GB  
   # List of environment variables that set for the application
